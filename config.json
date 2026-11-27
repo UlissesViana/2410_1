@@ -1,6 +1,6 @@
 {
-  "StationaryTarget": 100,
-  "Stationary_cm_energy": 40,
-  "Moving_target": 40,
-  "Moving_cm_energy": 200
+  "StationaryTarget": 10,
+  "Stationary_cm_energy": 10,
+  "Moving_target": 10,
+  "Moving_cm_energy": 10
 }
